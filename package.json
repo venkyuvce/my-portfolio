@@ -8,8 +8,7 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1",
-    "homepage": "https://<your-username>.github.io/my-portfolio"
-
+    "homepage": "https://venkyuvce.github.io/my-portfolio"
   },
   "scripts": {
     "start": "react-scripts start",

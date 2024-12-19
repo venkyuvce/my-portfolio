@@ -9,7 +9,7 @@ const Header = () => {
       <p>Email: venkyuvce@gmail.com | Phone: 9731120262</p>
       <p>Website: <a href="https://yourwebsite.com">yourwebsite.com</a></p>
       <nav>
-        <Link to="/">Summary</Link> | 
+        <Link to="/Summary">Summary</Link> | 
         <Link to="/Skill">Skills</Link> | 
         <Link to="/work-history">Work History</Link> | 
         <Link to="/education">Education</Link> | 
